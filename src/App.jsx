@@ -4,7 +4,6 @@
 import { useState } from "react";
 import "./App.css";
 import { AiOutlineSearch } from "react-icons/ai";
-import { TodoReducer } from "./todoReducer";
 function App() {
   const brands1 = [
     { id: "0a", brandName: "puma" },
